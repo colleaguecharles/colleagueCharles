@@ -1,4 +1,6 @@
-## Hi there 👋
+##### <p align="center"> i'll make this pretty later . 
+##### <p align="center"> i have hired this profile view counter to count you
+##### <p align="center"> ![](https://komarev.com/ghpvc/?username=colleaguecharles&color=d0cbd0&style=plastic&label=profile+views)
 
 <!--
 **colleaguecharles/colleagueCharles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
