@@ -1,9 +1,10 @@
+<div align="center"> 
+  
 ##### <p align="center"> ![](https://komarev.com/ghpvc/?username=colleaguecharles&color=C22D0A&style=plastic&label=LCorp+'+s+Agents)
 
-<img width="500" alt="image" align="center" src="https://static.wikia.nocookie.net/lobotomycorp/images/8/86/Containment_Unit.png/revision/latest?cb=20210304111501" />
+<img width="500" alt="image" src="https://static.wikia.nocookie.net/lobotomycorp/images/8/86/Containment_Unit.png/revision/latest?cb=20210304111501" />
 
-this is a mess right now , ignore the construction. coughs. <br>
-HOW DO I CENTER GITHUB IMAGES WAUGHHHH
+this is a mess right now , ignore the construction. coughs.
 
 
 <!--
