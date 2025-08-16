@@ -1,6 +1,10 @@
-##### <p align="center"> i'll make this pretty later . 
-##### <p align="center"> i have hired this profile view counter to count you
-##### <p align="center"> ![](https://komarev.com/ghpvc/?username=colleaguecharles&color=C22D0A&style=plastic&label=profile+views)
+##### <p align="center"> ![](https://komarev.com/ghpvc/?username=colleaguecharles&color=C22D0A&style=plastic&label=LCorp+'+s+Agents)
+
+<img width="500" alt="image" align="center" src="https://static.wikia.nocookie.net/lobotomycorp/images/8/86/Containment_Unit.png/revision/latest?cb=20210304111501" />
+
+this is a mess right now , ignore the construction. coughs. <br>
+HOW DO I CENTER GITHUB IMAGES WAUGHHHH
+
 
 <!--
 **colleaguecharles/colleagueCharles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
